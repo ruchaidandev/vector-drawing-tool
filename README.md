@@ -5,13 +5,13 @@ This is a assignment for QUT CAB302 Unit.
 
 ## Project Team
 
-  AIDAN PERERA,
+  AIDAN PERERA @ruchaidandev,
   
   OSCAR LI,
   
   NOEL MARTINEZ,
   
-  JOSHUA PINALLI
+  JOSHUA PINALLI @J-markp
   
 ## Vector Tool Application
 Will create, modify and export .vec files. Will create vector graphics with using many shapes.
