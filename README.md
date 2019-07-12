@@ -7,8 +7,11 @@ This is a assignment for QUT CAB302 Unit.
 ## Project Team
 
   AIDAN PERERA @ruchaidandev,
+  
   OSCAR LI @Oscar4351315,
-  NOEL MARTINEZ,
+  
+  NOEL MARTINEZ @noelmartinez93,
+  
   JOSHUA PINALLI @J-markp
   
 ## Vector Tool Application
